@@ -28,8 +28,9 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
    </div>
+</div>
     
-  
+  <div align="center">
   <h2 align="center">Redes Sociais</h2>
     <a href = "mailto: work.lucas.wittdarosa@gmail.com">
       <img width="30" src="gmail.svg">
@@ -37,6 +38,6 @@
     <a href = "https://www.linkedin.com/in/lucas-witt-da-rosa-9742741a0/">
       <img width="25" src="icons8-linkedin-144.png">
     </a>
-</div>
+  </div>
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
