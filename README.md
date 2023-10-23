@@ -1,4 +1,4 @@
-## Opaa salve Lucas Witt da Rosa Aqui😜💻!!!
+## Opaa salve, Lucas Witt da Rosa Aqui😜💻!!!
 
 <div>
   
@@ -22,14 +22,11 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.luigi.fonseca@gmail.com">
+    <a href = "mailto: work.lucas.wittdarosa@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
+    <a href = "https://www.linkedin.com/in/lucas-witt-da-rosa-9742741a0/">
       <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "https://www.instagram.com/devparadev/">
-      <img width="25" src="instagram.png">
     </a>
 </div>
   
