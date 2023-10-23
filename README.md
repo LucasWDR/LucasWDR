@@ -30,12 +30,12 @@
    </div>
 </div>
     
-  <div style="display: inline_block"><br>
+  <div align="center">
   <h2 align="center">Redes Sociais</h2>
-    <a href = "mailto: work.lucas.wittdarosa@gmail.com">
+    <a align="center" href = "mailto: work.lucas.wittdarosa@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/lucas-witt-da-rosa-9742741a0/">
+    <a align="center" href = "https://www.linkedin.com/in/lucas-witt-da-rosa-9742741a0/">
       <img width="25" src="icons8-linkedin-144.png">
     </a>
   </div>
