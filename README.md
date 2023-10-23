@@ -35,7 +35,7 @@
       <img width="30" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/lucas-witt-da-rosa-9742741a0/">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="icons8-linkedin-96.png">
     </a>
 </div>
   
