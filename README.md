@@ -31,7 +31,7 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.lucas.wittdarosa@gmail.com">
+    <a href = "lucas.wittdarosa@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/lucas-witt-da-rosa-9742741a0/">
